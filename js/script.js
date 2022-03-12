@@ -936,5 +936,250 @@ let mediaContent = [
   "seq": "1706",
   "subTopic": "Script tags code execution flow",
   "media": "https:\/\/www.youtube.com\/embed\/ZLW4FxYBX28"
+ },
+ {
+  "id": 135,
+  "topic": "JavaScript - Module",
+  "seq": "1801",
+  "subTopic": "Create html file for module",
+  "media": "https:\/\/www.youtube.com\/embed\/AjGgauhpK_M"
+ },
+ {
+  "id": 136,
+  "topic": "JavaScript - Module",
+  "seq": "1802",
+  "subTopic": "Export menu object array",
+  "media": "https:\/\/www.youtube.com\/embed\/68ZUeNVGu0k"
+ },
+ {
+  "id": 137,
+  "topic": "JavaScript - Module",
+  "seq": "1803",
+  "subTopic": "Comment external script in html",
+  "media": "https:\/\/www.youtube.com\/embed\/rmn03WMdiaU"
+ },
+ {
+  "id": 138,
+  "topic": "JavaScript - Module",
+  "seq": "1804",
+  "subTopic": "Convert script to module",
+  "media": "https:\/\/www.youtube.com\/embed\/5d_w0JU_FQs"
+ },
+ {
+  "id": 139,
+  "topic": "JavaScript - Module",
+  "seq": "1805",
+  "subTopic": "Import to use menu object array",
+  "media": "https:\/\/www.youtube.com\/embed\/aqO6mycyoLo"
+ },
+ {
+  "id": 140,
+  "topic": "JavaScript - Module",
+  "seq": "1806",
+  "subTopic": "Advantages of modules explained",
+  "media": "https:\/\/www.youtube.com\/embed\/oRxvduGkg7E"
+ },
+ {
+  "id": 141,
+  "topic": "JavaScript - 'if' statement",
+  "seq": "1901",
+  "subTopic": "Create html for 'if' statement demo",
+  "media": "https:\/\/www.youtube.com\/embed\/02hU3q0xOOg"
+ },
+ {
+  "id": 142,
+  "topic": "JavaScript - 'if' statement",
+  "seq": "1902",
+  "subTopic": "Include 'if' statement",
+  "media": "https:\/\/www.youtube.com\/embed\/SaQ3tYC1hWU"
+ },
+ {
+  "id": 143,
+  "topic": "JavaScript - 'if' statement",
+  "seq": "1903",
+  "subTopic": "Conditional 'if' statement explained",
+  "media": "https:\/\/www.youtube.com\/embed\/KHzocx4_jSg"
+ },
+ {
+  "id": 144,
+  "topic": "JavaScript - 'if' statement",
+  "seq": "1904",
+  "subTopic": "Code indentation rules",
+  "media": "https:\/\/www.youtube.com\/embed\/R1C6ytRg9iY"
+ },
+ {
+  "id": 145,
+  "topic": "JavaScript - Function",
+  "seq": "2001",
+  "subTopic": "Significance of functions",
+  "media": "https:\/\/www.youtube.com\/embed\/u0crhZSNhDo"
+ },
+ {
+  "id": 146,
+  "topic": "JavaScript - Function",
+  "seq": "2002",
+  "subTopic": "Definition of function",
+  "media": "https:\/\/www.youtube.com\/embed\/t8w6FQWcNac"
+ },
+ {
+  "id": 147,
+  "topic": "JavaScript - Function",
+  "seq": "2003",
+  "subTopic": "Calling the function",
+  "media": "https:\/\/www.youtube.com\/embed\/5KKgepsCUyA"
+ },
+ {
+  "id": 148,
+  "topic": "JavaScript - Function",
+  "seq": "2004",
+  "subTopic": "Function and code execution flow",
+  "media": "https:\/\/www.youtube.com\/embed\/znnr8G_vwKU"
+ },
+ {
+  "id": 149,
+  "topic": "JavaScript - Function",
+  "seq": "2005",
+  "subTopic": "Passing values to a function",
+  "media": "https:\/\/www.youtube.com\/embed\/AVVV1uG3Fn0"
+ },
+ {
+  "id": 150,
+  "topic": "JavaScript - Function",
+  "seq": "2006",
+  "subTopic": "Return value from a function",
+  "media": "https:\/\/www.youtube.com\/embed\/VB_rokYGjlk"
+ },
+ {
+  "id": 151,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2101",
+  "subTopic": "Displaying all menu items",
+  "media": "https:\/\/www.youtube.com\/embed\/Bw2Zk-Yh7yI"
+ },
+ {
+  "id": 152,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2102",
+  "subTopic": "Select all image files",
+  "media": "https:\/\/www.youtube.com\/embed\/GRxP4AxlcNA"
+ },
+ {
+  "id": 153,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2103",
+  "subTopic": "Exclude first menu item in selection and copy",
+  "media": "https:\/\/www.youtube.com\/embed\/5NQLwYxAlhk"
+ },
+ {
+  "id": 154,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2104",
+  "subTopic": "Copy menu object array script file",
+  "media": "https:\/\/www.youtube.com\/embed\/XaItWNkMLb0"
+ },
+ {
+  "id": 155,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2105",
+  "subTopic": "Create script for menu page and include import",
+  "media": "https:\/\/www.youtube.com\/embed\/D1rAdOAlCJU"
+ },
+ {
+  "id": 156,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2106",
+  "subTopic": "Logic to display menu items",
+  "media": "https:\/\/www.youtube.com\/embed\/u4OUHLA3u-o"
+ },
+ {
+  "id": 157,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2107",
+  "subTopic": "Menu page html code formatting",
+  "media": "https:\/\/www.youtube.com\/embed\/31N22kvRjA4"
+ },
+ {
+  "id": 158,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2108",
+  "subTopic": "Collapse menu item div tag and copy",
+  "media": "https:\/\/www.youtube.com\/embed\/Ga2eNCsjQMw"
+ },
+ {
+  "id": 159,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2109",
+  "subTopic": "Define div tag template literal in menu script",
+  "media": "https:\/\/www.youtube.com\/embed\/E58jNx7m5qc"
+ },
+ {
+  "id": 160,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2110",
+  "subTopic": "Include template literal placeholders",
+  "media": "https:\/\/www.youtube.com\/embed\/rby7LqIAw-4"
+ },
+ {
+  "id": 161,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2111",
+  "subTopic": "Include properties in placeholders",
+  "media": "https:\/\/www.youtube.com\/embed\/OxdZrX6Yg4U"
+ },
+ {
+  "id": 162,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2112",
+  "subTopic": "Include 'id' for row div",
+  "media": "https:\/\/www.youtube.com\/embed\/1hf3mYLWdXY"
+ },
+ {
+  "id": 163,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2113",
+  "subTopic": "Comment row div content",
+  "media": "https:\/\/www.youtube.com\/embed\/3y_DzfrdgEc"
+ },
+ {
+  "id": 164,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2114",
+  "subTopic": "Include menu script in menu page",
+  "media": "https:\/\/www.youtube.com\/embed\/h2kZVL9nQh8"
+ },
+ {
+  "id": 165,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2115",
+  "subTopic": "Display menu details using DOM",
+  "media": "https:\/\/www.youtube.com\/embed\/hwKMQsYvh6c"
+ },
+ {
+  "id": 166,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2116",
+  "subTopic": "Display only active items using 'if' condition",
+  "media": "https:\/\/www.youtube.com\/embed\/giQG9dQtJtw"
+ },
+ {
+  "id": 167,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2117",
+  "subTopic": "Function to convert menu object to html",
+  "media": "https:\/\/www.youtube.com\/embed\/eIu46oT_TgI"
+ },
+ {
+  "id": 168,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2118",
+  "subTopic": "Advantage of function of menu div conversion",
+  "media": "https:\/\/www.youtube.com\/embed\/EYhdc7T6BSY"
+ },
+ {
+  "id": 169,
+  "topic": "Patisserie - Display menu items using JavaScript menu objects",
+  "seq": "2119",
+  "subTopic": "Bottom margin for menu items",
+  "media": "https:\/\/www.youtube.com\/embed\/q5ce1nwokCk"
  }
 ];
