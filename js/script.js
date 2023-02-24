@@ -221,7 +221,7 @@ let mediaContent = [
   "topic": "Bootstrap - Learn Collapse Component",
   "seq": "0515",
   "subTopic": "ARIA Explained",
-  "media": "https:\/\/www.youtube.com\/embed\/klnVXGhaHjg"
+  "media": "https://www.youtube.com/watch?v=1GBrTa_gcy4"
  },
  {
   "id": 33,
